@@ -54,8 +54,8 @@ Version Control: Git & GitHub
 
 📌 Progress Tracker
 ✅ Basics →
-✅ Arrays →
-🔄 Strings →
+⬜ Arrays →
+⬜ Strings →
 ⬜ Linked Lists →
 ⬜ Trees & Graphs →
 ⬜ Dynamic Programming
